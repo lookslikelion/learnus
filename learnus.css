@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+
+.navi-box {
+    background-color: rgba(12, 12, 87);
+    height: 70px;
+    margin-top: 30px;
+}
+
+.select-box{
+overflow: hidden;
+float: right
+}
+.select-wrap{
+    text-align: right;
+    padding-right: 500px;
+}
+
+.login-box{
+overflow: hidden;
+float: right;
+margin-right: 40px;
+display: flex;
+color: black
+}
+
+.login-wrap{
+    overflow:hidden
+}
+.navibar{
+    display: flex;
+
+}
+.navi-box{
+    background-color:rgb(6, 22, 124, 0.929);
+    height: 80px;
+    padding-left:130px;
+    padding-right: 30px;}
+
+.top-class{
+    height: 300px;
+    width: 200px;
+    background-color: aqua;
+}
+
+.top-classes{
+    display flex;
+
+}
+
+h2 {
+    color: white;
+    margin: 20px;
+    padding-top: 20px;
+}
+
+.navibox-text {
+    color: white;
+    display: flex;
+    float: right;
+    justify-content: space-between;
+    align-content:center;
+    align-items: center;
+    width: 1000px;
+    font-size:20px;
+    overflow: hidden;
+}
+
+.flexbox{
+    display: flex;
+
+}
